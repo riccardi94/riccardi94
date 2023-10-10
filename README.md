@@ -4,9 +4,9 @@ I'm Emanuele, but you can call me Manu. Nice to meet you 😍
 
 I'm a mechatronic engineering who is passionate about exploring new technologies. 
 
-- 🛠️ I'm currently working as web developer for Nethive.
+- 🛠️ I'm currently working as web developer for [Nethive](https://www.nethive.it/en/).
 - 🌐 During my free time I like learning new things. Actually learning more about Python and NodeJs for increasing my backend attitude.
-- 🌳 When I am immersed in code, I'm out exploring new countries or do some hiking nearby where I live. 
+- 🌳 When I am not immersed in code, I'm out exploring new countries or do some hiking nearby where I live. 
 - 🤝 If you want to collaborate for a project, feel free to [text me](https://www.linkedin.com/in/emanuele-raffaele-riccardi-b87962168/) .
 
 ## TECHNOLOGIES:
