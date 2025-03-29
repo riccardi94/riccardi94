@@ -2,7 +2,7 @@
 
 I'm Emanuele, but you can call me Manu. Nice to meet you 😍
 
-I'm a mechatronic engineering who is passionate about exploring new technologies. 
+I'm a software engineering who is passionate about exploring new technologies. 
 
 - 🛠️ I'm currently working as web developer for [Nethive](https://www.nethive.it/en/).
 - 🌐 During my free time I like learning new things. Actually learning more about Python and NodeJs for increasing my backend attitude.
